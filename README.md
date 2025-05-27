@@ -20,7 +20,7 @@ This project predicts the likelihood of a loan default using Logistic Regression
 - Identified Credit History, Income, and Loan Amount as major predictors
 
 ## 📁 Dataset
-Loan Prediction dataset from [Kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
+Loan Prediction dataset from [Kaggle](https://www.kaggle.com/datasets/tanishaj225/loancsv)
 
 ## 📎 LinkedIn Post
 Check out my LinkedIn post [here](#) for a summary and visual!
