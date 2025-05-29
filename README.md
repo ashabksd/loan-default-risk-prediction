@@ -22,9 +22,6 @@ This project predicts the likelihood of a loan default using Logistic Regression
 ## 📁 Dataset
 Loan Prediction dataset from [Kaggle](https://www.kaggle.com/datasets/tanishaj225/loancsv)
 
-## 📎 LinkedIn Post
-Check out my LinkedIn post [here](#) for a summary and visual!
-
 ---
 
 ✅ Built by Asha B | M.Sc. Statistics | Aspiring Data Analyst
